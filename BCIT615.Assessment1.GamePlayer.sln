@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCIT615.Assessment1.GamePla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCIT615.Assessment1.GamePlayer.ModelTests", "tests\BCIT615.Assessment1.GamePlayer.ModelTests\BCIT615.Assessment1.GamePlayer.ModelTests.csproj", "{55555555-5555-5555-5555-555555555555}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf", "Wpf\Wpf.csproj", "{B4DA5690-3990-4019-B610-C40F9F0D741A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,8 +40,15 @@ Global
 		{55555555-5555-5555-5555-555555555555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55555555-5555-5555-5555-555555555555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55555555-5555-5555-5555-555555555555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DA5690-3990-4019-B610-C40F9F0D741A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DA5690-3990-4019-B610-C40F9F0D741A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DA5690-3990-4019-B610-C40F9F0D741A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DA5690-3990-4019-B610-C40F9F0D741A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28012244-9E71-4398-8B83-7AE4659D3B2F}
 	EndGlobalSection
 EndGlobal
