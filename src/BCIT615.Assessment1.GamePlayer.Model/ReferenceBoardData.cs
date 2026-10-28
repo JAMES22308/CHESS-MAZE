@@ -6,8 +6,8 @@ namespace BCIT615.Assessment1.GamePlayer.Model;
 /// <summary>Provides the known-good in-memory board used by the Assessment 1 reference workflow.</summary>
 public static class ReferenceBoardData
 {
-    public const int Rows = 20;
-    public const int Columns = 20;
+    public const int Rows = 6;
+    public const int Columns = 6;
 
     public static Position Start => new Position(5, 0);
     public static Position Target => new Position(0, 3);
